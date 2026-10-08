@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"description": "GOON SMP: звуци на сървъра (аларма за хакер)",
+		"pack_format": 34,
+		"supported_formats": [34, 64],
+		"min_format": 34,
+		"max_format": 99
+	}
+}

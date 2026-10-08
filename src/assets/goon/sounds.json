@@ -1,0 +1,8 @@
+{
+	"hacker_alert": {
+		"subtitle": "goon.subtitle.hacker_alert",
+		"sounds": [
+			{ "name": "goon:hacker_alert", "stream": false }
+		]
+	}
+}
